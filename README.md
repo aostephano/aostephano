@@ -1,16 +1,28 @@
-### Hi there 👋
+<h3 align="center">hey there, im alê :)</h3>
+ <p align="center"> <i>amante do opensorce porém não faz pr</i> </p>
 
-<!--
-**aostephano/aostephano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" width="256" height="256" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <h4>👨🏻‍💻 Sobre mim </h4>
+
+- 🌱 Estudando desenvolvimento Mobile Fullstack **&** Arquitetura
+- 👨‍🎓 Aluno de **Sistemas de Informação** na **Universidade Estadual de Campinas**.
+
+<br/>
+
+- 🔭 **Contatos:** 
+  - ![LinkedIn][1] [[Linkedin](https://www.linkedin.com/in/alexandre-stephano-852ab717b/)]
+  - 📫 Email: **ale.stephano@gmail.com**
+  - 📋 Institucional: **a265642@dac.unicamp.br**
+
+
+<br/>
+
+  <br/>
+ <p align="center"> <i>"42"</i> </p>
+
+ <!-- icons without padding -->
+
+[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
