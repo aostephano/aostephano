@@ -7,7 +7,7 @@
 
    <h4>👨🏻‍💻 Sobre mim </h4>
 
-- 🌱 Estudando desenvolvimento Mobile Fullstack **&** Arquitetura
+- 🌱 Estudando desenvolvimento Mobile Front **&** Arquitetura
 - 👨‍🎓 Aluno de **Sistemas de Informação** na **Universidade Estadual de Campinas**.
 
 <br/>
