@@ -1,5 +1,4 @@
 <h3 align="center">hey there, im alê :)</h3>
- <p align="center"> <i>amante do opensorce porém não faz pr</i> </p>
 
 <br/>
 
@@ -21,7 +20,6 @@
 <br/>
 
   <br/>
- <p align="center"> <i>"42"</i> </p>
 
  <!-- icons without padding -->
 
