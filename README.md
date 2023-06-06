@@ -7,9 +7,9 @@
    <h4>👨🏻‍💻 About me</h4>
 
 - 📱 FrontEnd Mobile **&** Arch Student 
-        Stack: Flutter
+  - Stack: Flutter
 - 💻 BackEnd Web Student
-        Stack: Django
+  - Stack: Django
    
 - 👨‍🎓 Aluno de **Sistemas de Informação** na **Universidade Estadual de Campinas**.
 
