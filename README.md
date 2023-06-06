@@ -16,7 +16,7 @@
 <br/>
 
 - 🔭 **Contatos:** 
-  - ![LinkedIn][1] [[Linkedin](https://www.linkedin.com/in/alexandre-stephano-852ab717b/)]
+  - 🏢 [Linkedin](https://www.linkedin.com/in/alexandre-stephano-852ab717b/)
   - 📫 Email: **ale.stephano@gmail.com**
   - 📋 Institucional: **a265642@dac.unicamp.br**
 
