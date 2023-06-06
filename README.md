@@ -11,7 +11,7 @@
 - 💻 BackEnd Web Student
   - Stack: Django
    
-- 👨‍🎓 **Information Systens** at **Universidade Estadual de Campinas**.
+- 👨‍🎓 **Information Systems** at **Universidade Estadual de Campinas**.
   - ##### 👨‍🎓🇧🇷 **Sistemas de Informação** na **Universidade Estadual de Campinas**.
 
 <br/>
