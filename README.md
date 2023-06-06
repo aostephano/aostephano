@@ -11,13 +11,14 @@
 - 💻 BackEnd Web Student
   - Stack: Django
    
-- 👨‍🎓 Aluno de **Sistemas de Informação** na **Universidade Estadual de Campinas**.
+- 👨‍🎓 **Information Systens** at **Universidade Estadual de Campinas**.
+  - ##### 👨‍🎓🇧🇷 **Sistemas de Informação** na **Universidade Estadual de Campinas**.
 
 <br/>
 
-- 🔭 **Contatos:** 
+- 🔭 **Contac:** 
   - 🏢 [Linkedin](https://www.linkedin.com/in/alexandre-stephano-852ab717b/)
   - 📫 Email: **ale.stephano@gmail.com**
-  - 📋 Institucional: **a265642@dac.unicamp.br**
+  - 📋 Institutional: **a265642@dac.unicamp.br**
 
 <br/>
