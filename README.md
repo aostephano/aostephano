@@ -6,7 +6,7 @@
 
    <h4>👨🏻‍💻 About me</h4>
 
-- 📱 FrontEnd Mobile **&** Arch Student 
+- 📱 FrontEnd Mobile
   - Stack: Flutter
 - 💻 BackEnd Web Student
   - Stack: Django
