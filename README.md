@@ -6,10 +6,10 @@
 
    <h4>👨🏻‍💻 About me</h4>
 
-- 📱 FrontEnd Mobile
-  - Stack: Flutter
+- 📱 FrontEnd
+  - Stack: Flutter/Angular
 - 💻 BackEnd Web Student
-  - Stack: Django
+  - Stack: ASPNET/Django
    
 - 👨‍🎓 **Information Systems** at **Universidade Estadual de Campinas**.
   - ##### 👨‍🎓🇧🇷 **Sistemas de Informação** na **Universidade Estadual de Campinas**.
