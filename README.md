@@ -8,7 +8,7 @@
 
 - 📱 FrontEnd
   - Stack: Flutter/Angular
-- 💻 BackEnd Web Student
+- 💻 BackEnd Web
   - Stack: Spring/Django
    
 - 👨‍🎓 **Information Systems** at **Universidade Estadual de Campinas**.
