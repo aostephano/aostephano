@@ -10,6 +10,8 @@
   - Stack: Flutter/Angular
 - 💻 BackEnd Web
   - Stack: Spring/Django
+- ⚛ Data Enginner
+  - Stack: PySpark
    
 - 👨‍🎓 **Information Systems** at **Universidade Estadual de Campinas**.
   - ##### 👨‍🎓🇧🇷 **Sistemas de Informação** na **Universidade Estadual de Campinas**.
