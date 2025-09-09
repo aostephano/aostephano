@@ -10,9 +10,8 @@
 - 📱 FrontEnd
   - Stack: Flutter/Angular
 - 💻 BackEnd Web
-  - Stack: Spring/Django
+  - Stack: Spring
 
-   
 - 👨‍🎓 **Information Systems** at **Universidade Estadual de Campinas**.
 
 <br/>
